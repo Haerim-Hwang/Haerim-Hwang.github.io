@@ -39,7 +39,18 @@
   },
   "interests": [
     {
-      "name": "linguistics, psycholinguistics, statistics",
+      "name": "linguistics",
+      "keywords": [
+        ""
+      ]
+    },{
+      "name": "psycholinguistics",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "statistics",
       "keywords": [
         ""
       ]
